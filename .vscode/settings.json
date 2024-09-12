@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "eslint.codeActionsOnSave.mode": "all",
+    "editor.codeActionsOnSave": {},
+    "editor.formatOnSave": false,
+    "tailwindCSS.codeActions": false,
+    "color-highlight.matchHslWithNoFunction": true
+}
